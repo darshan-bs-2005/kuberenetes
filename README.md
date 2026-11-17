@@ -1,2 +1,0 @@
-# kuberenetes
-kubernetes simple terms
